@@ -4,7 +4,6 @@ from typing import Optional
 
 app = FastAPI()
 
-# Autoriser les requêtes depuis le frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
