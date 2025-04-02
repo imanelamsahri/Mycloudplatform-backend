@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+apache-sedona
+pyspark
+geopandas
+dask[complete]
+dask-geopandas
+boto3
+gcsfs
+azure-storage-blob
+fsspec
+minio
+rioxarray
+zarr
